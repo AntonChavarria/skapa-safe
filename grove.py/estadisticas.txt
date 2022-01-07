@@ -1,0 +1,3 @@
+Veces abierta : 1
+Veces alarma encendida : 3
+Veces alarma apagada : 2
