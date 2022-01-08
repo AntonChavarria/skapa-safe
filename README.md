@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="ss.PNG" alt="Logo" width="150" height="200">
+    <img src="ss.PNG" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">Skapa Safe</h3>
