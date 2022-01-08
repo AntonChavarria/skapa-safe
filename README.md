@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="ss.PNG" alt="Logo" width="200" height="200">
+    <img src="ss.PNG" alt="Logo" width="150" height="200">
   </a>
 
   <h3 align="center">Skapa Safe</h3>
@@ -100,8 +100,8 @@ Para el correcto funcionamiento del sistema, en necesario tener instalado Python
  Ademas, sera necesario que todos los elementos iot que vamos a utilizar para la practica esten conectados al puerto correspondiente de su computadora, atendiendo a la siguiente manera:
  - Port 24: BUZZER
  - Port 26: LED Rojo
- - Port 12C: Pantalla LCD
- - Port 12C: Sensor de GESTOS
+ - Port I2C: Pantalla LCD
+ - Port I2C: Sensor de GESTOS
   
   
 ### Instalacion
@@ -135,7 +135,8 @@ El sistema desarrollado, ante los estimulos que el usuario ejecute frente a el s
 
 _Mediante un giro de muñeca hacia las agujas del reloj, se encienden los dispositivos LED y buzzer (durante 6 segundos) avisando que la puerta esta abierta_<br><br>
 _Mediante un giro de muñeca hacia abajo, se activara el buzzer alertando de un supuesto robo_<br><br>
-_Mediante un giro de muñeca en contra de las agujas del reloj, se desactivara la alerta por robo, apagando el sonido del buzzer y apagado el led._<br><br>
+_Mediante un giro de muñeca en contra de las agujas del reloj, se desactivara la alerta por robo, apagando el sonido del buzzer._<br><br>
+_Mediante un giro de muñeca hacia la derecha, se almacenan estadísticas de cada uno de los movimientos._<br><br>
 
 
 <!-- LICENSE -->
