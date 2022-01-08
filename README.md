@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="ss.PNG" alt="Logo" width="80" height="80">
+    <img src="ss.PNG" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Skapa Safe</h3>
@@ -108,7 +108,7 @@ Para el correcto funcionamiento del sistema, en necesario tener instalado Python
 
 Para el incio del sistema, sera necesario seguir los siguientes pasos
 
-1. Colnar este repositorio
+1. Clonar este repositorio
    ```
    git clone https://github.com/your_username_/Project-Name.git
    ```
@@ -121,7 +121,7 @@ Para el incio del sistema, sera necesario seguir los siguientes pasos
    cd grove.py
    ```
 5. Ejecutar el programa
-
+   ```
    python main.py
    ```
 <p align="right">(<a href="#top">back to top</a>)</p>
