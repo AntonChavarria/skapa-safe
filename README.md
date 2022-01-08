@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="ss.PNG" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Skapa Safe</h3>
@@ -116,11 +116,14 @@ Para el incio del sistema, sera necesario seguir los siguientes pasos
    ```
    cd SkapaSafe
    ```
-4. Ejecutar el programa
+4. Cambiar dentro de grove.py
    ```
+   cd grove.py
+   ```
+5. Ejecutar el programa
+
    python main.py
    ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -147,9 +150,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Skapa Safe - [@skapaSafe](https://twitter.com/skapaSafe) - skapaSafel@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/AntonChavarria/skapa-safe](https://github.com/AntonChavarria/skapa-safe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
