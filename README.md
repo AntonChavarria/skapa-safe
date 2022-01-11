@@ -19,7 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/AntonChavarria/skapa-safe">
     <img src="ss.PNG" alt="Logo" width="150" height="150">
   </a>
 
@@ -28,44 +28,9 @@
   <p align="center">
     Sistema de seguridad automatizado basado en sensores
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Contenidos</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
 
 
 
@@ -94,10 +59,10 @@ A continuacion se explican los requisitos y procedieminto a seguir para la insta
 Para el correcto funcionamiento del sistema, en necesario tener instalado Python 3.1
 * python
   ```sh
-  apt get install python
+ sudo apt-get install python
   ```
   
- Ademas, sera necesario que todos los elementos iot que vamos a utilizar para la practica esten conectados al puerto correspondiente de su computadora, atendiendo a la siguiente manera:
+ Ademas, sera necesario que todos los elementos que vamos a utilizar para la practica esten conectados al puerto correspondiente de su computadora, atendiendo a la siguiente manera:
  - Port 24: BUZZER
  - Port 26: LED Rojo
  - Port I2C: Pantalla LCD
@@ -112,11 +77,11 @@ Para el incio del sistema, sera necesario seguir los siguientes pasos
    ```
    git clone https://github.com/your_username_/Project-Name.git
    ```
-2. Cambiar directorio a SkapaSafe
+2. Cambiar al directorio creado SkafaSafe
    ```
    cd SkapaSafe
    ```
-4. Cambiar dentro de grove.py
+4. Cambiar directorio dentro de grove.py
    ```
    cd grove.py
    ```
@@ -140,9 +105,9 @@ _Mediante un giro de muñeca hacia la derecha, se almacenan estadísticas de cad
 
 
 <!-- LICENSE -->
-## License
+## Licencia
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Para asegurar la originalidad del codigo este proyecto esta creado bajo licencia. Ver `LICENSE.txt` para mas informacion.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -151,27 +116,24 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
+Para cualquier cuestion, duda o peticion de cambios pueden contactar con nosotros por los siguientes enlaces-
 Skapa Safe - [@skapaSafe](https://twitter.com/skapaSafe) - skapaSafel@gmail.com
 
-Project Link: [https://github.com/AntonChavarria/skapa-safe](https://github.com/AntonChavarria/skapa-safe)
+Link de proyecto: [https://github.com/AntonChavarria/skapa-safe](https://github.com/AntonChavarria/skapa-safe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Dedicacion y creditos
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Enlaces directos ha los creadores del ppyecto.
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Anton Chavarria](https://github.com/AntonChavarria)
+* [Jagoba Gomez](https://github.com/jagobajr)
+* [Aitor Cavia](https://github.com/aitorcavia)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
