@@ -58,7 +58,7 @@ A continuacion se explican los requisitos y procedieminto a seguir para la insta
 
 Para el correcto funcionamiento del sistema, en necesario tener instalado Python 3.1
 * python
-  ```sh
+```
  sudo apt-get install python
   ```
   
@@ -116,9 +116,10 @@ Para asegurar la originalidad del codigo este proyecto esta creado bajo licencia
 <!-- CONTACT -->
 ## Contact
 
-Para cualquier cuestion, duda o peticion de cambios pueden contactar con nosotros por los siguientes enlaces-
+Para cualquier cuestion, duda o peticion de cambios pueden contactar con nosotros por los siguientes enlaces
+<br><br>
 Skapa Safe - [@skapaSafe](https://twitter.com/skapaSafe) - skapaSafel@gmail.com
-
+<br>
 Link de proyecto: [https://github.com/AntonChavarria/skapa-safe](https://github.com/AntonChavarria/skapa-safe)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -128,7 +129,7 @@ Link de proyecto: [https://github.com/AntonChavarria/skapa-safe](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Dedicacion y creditos
 
-Enlaces directos ha los creadores del ppyecto.
+Enlaces directos ha los creadores del proyecto.
 
 * [Anton Chavarria](https://github.com/AntonChavarria)
 * [Jagoba Gomez](https://github.com/jagobajr)
