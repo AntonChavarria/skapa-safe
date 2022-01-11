@@ -107,7 +107,7 @@ _Mediante un giro de muñeca hacia la derecha, se almacenan estadísticas de cad
 <!-- LICENSE -->
 ## Licencia
 
-Para asegurar la originalidad del codigo este proyecto esta creado bajo licencia. Ver `LICENSE.txt` para mas informacion.
+Para asegurar la originalidad del codigo este proyecto esta creado bajo licencia. Ver `LICENSE` para mas informacion.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
